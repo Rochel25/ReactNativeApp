@@ -11,13 +11,20 @@
   "dependencies": {
     "expo": "~50.0.7",
     "expo-status-bar": "~1.11.1",
-    "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.73.4",
+    "react-native-paper": "^5.12.3",
+    "react-native-sqlite-2": "^3.6.2",
+    "react-native-sqlite-storage": "^6.0.1",
+    "expo-sqlite": "~13.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
+    "@babel/preset-typescript": "^7.16.7",
     "@types/react": "~18.2.45",
-    "typescript": "^5.1.3"
+    "@types/react-native-sqlite-storage": "^6.0.5",
+    "typescript": "^5.3.3"
   },
   "private": true
 }
